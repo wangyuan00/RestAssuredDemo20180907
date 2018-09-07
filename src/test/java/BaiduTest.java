@@ -6,7 +6,7 @@ import org.hamcrest.Matchers.*;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-public class Baidu {
+public class BaiduTest {
    @Test
    /*简单请求http://www.baidu.com*/
     public void testGetHtml(){

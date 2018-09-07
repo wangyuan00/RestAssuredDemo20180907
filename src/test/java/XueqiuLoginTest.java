@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class XueqiuLogin {
+public class XueqiuLoginTest {
     @Test
     public void LoginTest(){
 

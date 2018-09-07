@@ -13,7 +13,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
 
-public class ExtractDemo {
+public class ExtractDemoTest {
     public static String code;
     public static  Response response;
     public static RequestSpecification requestSpecification;

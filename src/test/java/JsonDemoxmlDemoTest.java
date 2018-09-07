@@ -6,7 +6,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 import io.restassured.matcher.RestAssuredMatchers.*;
 
-public class JsonDemoxmlDemo {
+public class JsonDemoxmlDemoTest {
     @Test
     public void DemoJson(){
 //      默认是由XML解析器处理，需要在发出请求前明确告诉RestAssured用此解析器
